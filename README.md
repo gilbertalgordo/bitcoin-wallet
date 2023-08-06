@@ -38,3 +38,6 @@ You can build all sub-projects in all flavors at once using Gradle:
     gradle clean build
 
 For details about building the wallet see the [specific README](wallet/README.md).
+
+
+0f487f33be625004abab2e8a5a18ab
